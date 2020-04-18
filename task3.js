@@ -12,7 +12,7 @@ if(i % x === 0 && i % y === 0 && i % z === 0){
     document.write("yu-gi  ,");
 
 }else if(i % x === 0 && i % z === 0){
-    document.write("yu-oh <br>  ,");
+    document.write("yu-oh   ,");
     
 } else if(i % y === 0 && i % z === 0){
     document.write("gi-oh  ,");
